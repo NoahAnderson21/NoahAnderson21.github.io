@@ -7,7 +7,13 @@ border-style: solid;
 border-radius:5px;
 
 }
-
+h1{
+    color:black;
+    background-color:orange;
+    border-width: 1px;
+    border-style:solid;
+    border-radius:5px;
+}
 div {
     background-color: orange;
     padding: 10px;
@@ -16,6 +22,11 @@ div {
 
 a{
     color:orange;
+    text-decoration: none;
+}
+
+ol{
+    color: orange;
 }
 
 body{
@@ -33,6 +44,7 @@ p{
 
 button{
     background-color:black;
+
 }
 
 body, html {
@@ -44,4 +56,8 @@ body {
   background-color: black;
 }
 
-
+.av-club-image{
+    background-color:orange;
+    width: 270px;
+    
+}
