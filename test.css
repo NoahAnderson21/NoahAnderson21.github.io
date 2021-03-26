@@ -1,0 +1,42 @@
+.container-1{
+	width:70vw;
+	margin:auto;
+	background-color: red;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+	
+	
+	
+	
+}
+
+.post-1:hover{
+	background-color: black;
+}
+
+.post-2:hover{
+	background-color: blue;
+}
+
+
+.post-3:hover{
+	background-color: green;
+}
+
+body{
+	background-image: url("Pictures/dark-triangles.png")
+	
+}
+
+h1{
+color: White;	
+}
+
+p{
+	color:white;
+
+}
+
+
